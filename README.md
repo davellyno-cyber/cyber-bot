@@ -1,4 +1,4 @@
-# ridhobot
+# cyber-bot
 BOT WHATSAPP HP RIDHO SETIAWAN
 
 ### Alat dan Bahan
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| RIDHO BOT       |                Feature           |
+| Davellyno       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -51,4 +51,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 [`ARIS187 ID`](https://github.com/A187ID)
 
 ### Donate
-* DANA/PULSA  081289096745
+* DANA/PULSA  088291819839
